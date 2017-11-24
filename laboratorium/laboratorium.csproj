@@ -42,6 +42,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Iovladanie.cs" />
+    <Compile Include="labolatoriumveduci.cs" />
+    <Compile Include="laboratorium.cs" />
+    <Compile Include="laboratorium1.cs" />
+    <Compile Include="mikroskopcs.cs" />
+    <Compile Include="odstredivka.cs" />
+    <Compile Include="pristroj.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

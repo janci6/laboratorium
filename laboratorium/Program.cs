@@ -4,12 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace laboratorium
+namespace labolatorium
 {
     class Program
     {
         static void Main(string[] args)
         {
+            labolatorium laboratorium = new labolatorium();
+
+            laboratorium.Spustvyzkum();
+
+            Console.ReadLine();
         }
     }
 }
